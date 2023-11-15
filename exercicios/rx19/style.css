@@ -1,0 +1,18 @@
+@charset"UTF-8";
+
+body{
+    background-color:rgb(13, 200, 247);
+    text-align: justify;
+    front-size: 20px
+}
+h1{
+color: rgb(76, 76, 179);
+background-color: lightblue;
+}
+h2{
+color: rgb(27, 112, 91);
+}
+p{
+text-align: justify;
+}
+
